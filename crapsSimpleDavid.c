@@ -44,6 +44,7 @@ int main()
 	
 	printf("\nWhat is your name? ");
 	scanf("%s",playername);
+	printf("\nHello %s!\n", playername);
 	while (repeat)
 	{
 		
